@@ -131,7 +131,7 @@ public class WeatherApp extends JFrame implements ActionListener {
         setLayout(null);
         setSize(1000, 570);
         setLocationRelativeTo(null);
-        ImageIcon image = new ImageIcon("src/main/java/com/codehere/sun_icon.png");
+        ImageIcon image = new ImageIcon("src/main/java/com/weather/sun_icon.png");
         setIconImage(image.getImage());
         getContentPane().setBackground(new Color(245, 234, 250));
         setVisible(true);

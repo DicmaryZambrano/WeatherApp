@@ -6,7 +6,7 @@ The weather application retrieves forecast information based on user-provided ci
 
 It uses the Geocode API to obtain the latitude and longitude of the specified location and then fetches the forecast from the OpenWeather API with this data.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/TTNpjYUx3sk)
 
 # Development Environment
 
